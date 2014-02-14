@@ -1,13 +1,12 @@
 package B;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 /**
  * http://codeforces.ru/problemset/problem/158/B
  */
 public class B158Taxi {
-    public static void main(final String args[]) throws IOException {
+    public static void main(final String args[]) {
         final Scanner sc = new Scanner(System.in);
         final int n = sc.nextInt();
         sc.nextLine();
